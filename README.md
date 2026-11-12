@@ -43,7 +43,7 @@ and on **visual perception** for autonomous driving and humanoid robotics.
 | ![RO-MAN 2024](https://img.shields.io/badge/RO--MAN-2024-00629B?style=flat-square) | **GRACE**: A Humanoid Robot Dialogue System Architecture Targeting Patient Interview Tasks<br>🏆 3rd Place, Best Industry Application Award | [Paper](https://ieeexplore.ieee.org/document/10731285/) |
 | ![ICRA 2024](https://img.shields.io/badge/ICRA-2024-00629B?style=flat-square) | **CCSU**: Cross-Cluster Shifting for Efficient and Effective 3D Object Detection in Autonomous Driving | [arXiv](https://arxiv.org/abs/2403.06166) · [Paper](https://ieeexplore.ieee.org/document/10611345) |
 
-<sub>★ first author · full publication list on <a href="https://tkpham.me">tkpham.me</a></sub>
+<sub>★ first author · full publication list on <a href="https://tkpham.me">tkpham.me</a> · this is my new account!</sub>
 
 ## 🐍 Contributions
 
